@@ -5,7 +5,7 @@ Text analyzer and emojis code extracter. Fetch for the occurence of emoji codes 
 ![Alt text](/ScreenShots/img2.png?raw=true "After sending")
 
 # Demo
-[![Demo CountPages alpha](gifs.com/gif/emojis-manager-library-for-android-XDWjN8)](https://youtu.be/xrH097kuOJs?list=PLbiQ2f_zE6LzXu0xbfZlC9W6oaC0RMpBQ)
+[![Demo CountPages alpha](https://j.gifs.com/XDWjN8.gif)](https://youtu.be/xrH097kuOJs?list=PLbiQ2f_zE6LzXu0xbfZlC9W6oaC0RMpBQ)
 
 # Licence:
 
