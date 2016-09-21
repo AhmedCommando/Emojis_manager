@@ -1,8 +1,8 @@
 # emojis_manager
 Text analyzer and emojis code extracter. Fetch for the occurence of emoji codes in a text and replace it with image.
 
-![Alt text](/ScreenShots/img1.png?raw=true "Optional title")
-![Alt text](https://goo.gl/photos/u3k86ZQRajRfr792A "Optional title")
+![Alt text](/ScreenShots/img1.png?raw=true "Before sending")
+![Alt text](/ScreenShots/img2.png?raw=true "After sending")
 
 
 
