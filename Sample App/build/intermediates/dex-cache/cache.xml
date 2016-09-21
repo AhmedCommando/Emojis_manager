@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_5ea4c1d33d1ea8baf8cc9c6ad871703f81d873c1.jar" />
+    </item>
+    <item
+        jar="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/exploded-aar/Emojis_manager_project/emojis_manager/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="07890a2e512e58dbcb38573d52f24fcd59dd0766">
+        <dex dex="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/pre-dexed/debug/Emojis_manager_project-emojis_manager-unspecified_e06e70973400aca01357efb3cf7b6f9ee8fc52ac.jar" />
+    </item>
+    <item
+        jar="/home/commando/Android-soft-lib/Android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_ee6faf4fa612e8a386c22f107277002baeb67394.jar" />
+    </item>
+    <item
+        jar="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_654ff4e47e602c3e7bf150b9ceb46adc72120d71.jar" />
+    </item>
+    <item
+        jar="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/commando/Android-Workspace/Emojis_manager_project/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_ab52a5ee8d65de84fb095f2f662c9af45b494aa9.jar" />
+    </item>
+
+</items>
